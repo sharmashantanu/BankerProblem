@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510221056 source:d:\other docs\5th semester\lab work\bankerproblem\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+
