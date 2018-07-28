@@ -1,0 +1,5 @@
+BANKER'S PROBLEM
+
+The banker's algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation for predetermined maximum possible amounts of all resources.
+
+This algorithm is being shown using the C++ code.
